@@ -4,7 +4,7 @@ let imgUrl=[
     '3.jpg',
     '4.jpg',
     '5.jpg',
-    '6.png',
+    '6.jpg',
 
 ]
 window.g={
