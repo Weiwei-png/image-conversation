@@ -1,5 +1,5 @@
 let imgUrl=[
-    'demo1.jpg',
+    'demo2.jpg',
     '2.png',
     '3.png',
     '4.png',
